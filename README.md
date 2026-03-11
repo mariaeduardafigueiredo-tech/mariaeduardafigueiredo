@@ -39,8 +39,8 @@
 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-status">
-  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api?username=mariaeduardafigueiredo&show_icons=true&theme=tokyonight"/>
+  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api?username=mariaeduardafigueiredo-tech&show_icons=true&theme=tokyonight"/>
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardafigueiredo&layout=compact&theme=tokyonight"/>
+  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardafigueiredo-tech&layout=compact&theme=tokyonight"/>
    </a>
