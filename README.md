@@ -36,12 +36,3 @@
 [![Discord](https://img.shields.io/badge/Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mariaeduardafigueiredo05)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=000F)](https://www.linkedin.com/in/maria-eduarda-figueiredo-fullstack/])
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail-Gmail&logoColor=)](mailto:mariaeduardaprogramadora23@gmail.com)
-
-
-</a>
-<a href="https://github.com/anuraghazra/github-readme-status">
-  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api?username=mariaeduardafigueiredo-tech&show_icons=true&theme=tokyonight"/>
-   </a>
-   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardafigueiredo-tech&layout=compact&theme=tokyonight"/>
-   </a>
